@@ -49,15 +49,19 @@ console.log(isAnagram.isAnagram(s, t));
 
 //Note 2: sort the strings and compare them O(nlogn)
 class Solution1 {
-  // @param {string} s
-  // @param {string} t
-  // @return {boolean}
-
+  /**
+   * @param {string} s
+   * @param {string} t
+   * @return {boolean}
+   */
   isAnagram(s, t) {
     if (s.length !== t.length) {
       return false;
     }
-    return s.split("").sort().join("") === t.split("").sort().join("");
+
+    let sSort = s.split("").sort().join();
+    let tSort = t.split("").sort().join();
+    return sSort == tSort;
   }
 }
 const isAnagram1 = new Solution1();
