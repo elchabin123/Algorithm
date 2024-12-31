@@ -39,12 +39,12 @@ console.log(ContainsDuplicate(nums1));
 //Note 3: using harsh set O(n)
 const nums2 = [1, 2, 3, 5, 1];
 const ContainsDuplicate2 = function (nums) {
-  const seen = new Set();
+  const harshSet = new Set();
   for (let i = 0; i < nums.length; i++) {
-    if (seen.has(nums[i])) {
+    if (harshSet.has(nums[i])) {
       return true;
     }
-    seen.add(nums[i]);
+    harshSet.add(nums[i]);
   }
   return false;
 };
