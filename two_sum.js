@@ -16,11 +16,11 @@ class Solution {
 
 //Note 2: Sorting
 class Solution {
-  /**
-   * @param {number[]} nums
-   * @param {number} target
-   * @return {number[]}
-   */
+  // /**
+  //  * @param {number[]} nums
+  //  * @param {number} target
+  //  * @return {number[]}
+  //  */
   twoSum(nums, target) {
     let A = [];
     for (let i = 0; i < nums.length; i++) {
@@ -46,11 +46,10 @@ class Solution {
 }
 //Note 3: Hash map (two pass)
 class Solution {
-  /**
-   * @param {number[]} nums
-   * @param {number} target
-   * @return {number[]}
-   */
+  //   @param {number[]} nums
+  //   @param {number} target
+  // @return {number[]}
+
   twoSum(nums, target) {
     const indices = {}; // val -> index
 
@@ -70,11 +69,11 @@ class Solution {
 }
 //Note 4: Hash map (one pass)
 class Solution {
-  /**
-   * @param {number[]} nums
-   * @param {number} target
-   * @return {number[]}
-   */
+  // /**
+  //  * @param {number[]} nums
+  //  * @param {number} target
+  //  * @return {number[]}
+  //  */
   twoSum(nums, target) {
     const prevMap = new Map();
 
