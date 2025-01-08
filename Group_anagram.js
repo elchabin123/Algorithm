@@ -1,9 +1,9 @@
 //Note: sort m.n(log)
 class Solution {
-  /**
-   * @param {string[]} strs
-   * @return {string[][]}
-   */
+  // /**
+  //  * @param {string[]} strs
+  //  * @return {string[][]}
+  //  */
   groupAnagrams(strs) {
     const res = {};
     for (let s of strs) {
