@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Neetcode\\NeetcodeC#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90EAAE80-07B6-42FD-A620-88A40BB8D30A}|Neetcode\\Neetcode.csproj|c:\\users\\admin\\desktop\\neetcode\\neetcodec#\\neetcode\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EAAE80-07B6-42FD-A620-88A40BB8D30A}|Neetcode\\Neetcode.csproj|solutionrelative:neetcode\\productexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EAAE80-07B6-42FD-A620-88A40BB8D30A}|Neetcode\\Neetcode.csproj|c:\\users\\admin\\desktop\\neetcode\\neetcodec#\\neetcode\\valid_palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EAAE80-07B6-42FD-A620-88A40BB8D30A}|Neetcode\\Neetcode.csproj|solutionrelative:neetcode\\valid_palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Valid_Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Neetcode\\NeetcodeC#\\Neetcode\\Valid_Palindrome.cs",
+              "RelativeDocumentMoniker": "Neetcode\\Valid_Palindrome.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Neetcode\\NeetcodeC#\\Neetcode\\Valid_Palindrome.cs",
+              "RelativeToolTip": "Neetcode\\Valid_Palindrome.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:16:26.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductExceptSelf.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Neetcode\\NeetcodeC#\\Neetcode\\ProductExceptSelf.cs",
+              "RelativeDocumentMoniker": "Neetcode\\ProductExceptSelf.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Neetcode\\NeetcodeC#\\Neetcode\\ProductExceptSelf.cs",
+              "RelativeToolTip": "Neetcode\\ProductExceptSelf.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:13:36.131Z",
+              "EditorCaption": ""
             }
           ]
         }

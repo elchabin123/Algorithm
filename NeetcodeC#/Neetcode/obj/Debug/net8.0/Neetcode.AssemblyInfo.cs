@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Neetcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830ffb4912eabe09eac168d0d08b7f6cb5415496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014f340b4cf4e36d3bf823ff6b52d330e6928702")]
 [assembly: System.Reflection.AssemblyProductAttribute("Neetcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Neetcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
